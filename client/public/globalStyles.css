@@ -1,0 +1,25 @@
+.fontFam {
+    font-family: 'Varela';
+}
+
+.wrapper {
+    display: flex;
+    z-index: 0;
+    
+}
+
+.app {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+body {
+    background:  #252525
+}
+
+#root {
+
+}
